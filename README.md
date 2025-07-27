@@ -1,2 +1,2 @@
-# --loan-processing-microservices
+# loan-processing-microservices
 a microservices example
